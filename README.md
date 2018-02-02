@@ -6,5 +6,5 @@ If you are interested in learning how to program these digital devices to do wha
 place to start. In this course you will learn JavaScript, a language used all over the internet, but also used to develop 
 video games and to control robots. You will learn how to write programs and simple games that your friends can try out on 
 the internet and get a chance to build and program a small self-driving vehicle, all with JavaScript. Additional topics are 
-covered in Computer Science 2.
+covered in Computer Science 2. Ben made a change here
 
